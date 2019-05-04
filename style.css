@@ -1,0 +1,71 @@
+body{
+}
+
+
+.jumbotron {
+  text-align: center;
+  margin: 0 1em;
+  height: 83%;
+  display: flex;
+  align-items: center;
+}
+
+.jumbotron img {
+  width: 150px;
+  margin: 0.5em;
+  border-color: black;
+  border-radius: 5em;
+}
+
+#arrow {
+  text-align: center;
+  margin: 2em;
+}
+
+section {
+  padding: 4em 1em;
+  text-align: center;
+}
+
+section h2 {
+  font-size: 3.5rem;
+}
+
+article {
+  padding: 2em 1em;
+  text-align: center;
+}
+
+#MyFamily img {
+  width: 80%;
+  height: 50%;
+}
+
+
+.div-center {
+  margin: 0 auto;
+}
+
+section progress {
+  width: 100%;
+  height: 1.25em;
+  color: green;
+  background: grey;
+}
+
+#MyFavCommunity a {
+  text-decoration: none;
+  color: black;
+}
+
+#MyFavCommunity a:hover {
+  color: gray;
+}
+
+footer {
+  padding: 15px;
+  margin-top: 0;
+  color: rgba (0,0,0,.8);
+  background-color: grey;
+  text-align: center;
+}
